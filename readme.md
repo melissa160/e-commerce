@@ -1,2 +1,2 @@
-*E-commerce*
-**Las camisetas mas parchadas**
+**E-commerce**
+*Las camisetas mas parchadas*
